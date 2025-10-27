@@ -22,8 +22,8 @@ This is a simple console application built with C# and .NET to simulate a basic 
 
 Here is the main menu of the application:
 
-![Main menu of the banking app](D:\C# files\BankingApp\.github\images\main-menu.png.png)
+![Main menu of the banking app](./.github/images/main-menu.png)
 
 Here is a demonstration of the overdraft fee on a checking account:
 
-![Demonstration of overdraft](D:\C# files\BankingApp\.github\images\overdraft-demo.png.png)
+![Demonstration of overdraft](./.github/images/overdraft-demo.png)
